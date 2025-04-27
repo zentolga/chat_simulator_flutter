@@ -1,1 +1,12 @@
 .ssh/
+.ssh/
+.termux/
+.npm/
+.cache/
+.config/
+.expo/
+.gitconfig
+.bash_history
+.bashrc
+.lesshst
+.wget-hsts
